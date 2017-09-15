@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BeeperBot
+comment0.text=\r\n\ @author\ \:\ \ its\ ya\ boi\ justin\ lee\r\n
+comment1.params=
+comment1.target=void\ findAllBeepers()
+comment2.params=
+comment2.target=void\ turnRight()
+comment3.params=
+comment3.target=void\ moveThree()
+comment4.params=
+comment4.target=void\ moveAndDoStuff()
+numComments=5

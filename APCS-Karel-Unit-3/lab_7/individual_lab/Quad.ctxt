@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Quad
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ fixQuad()
+comment2.params=where
+comment2.target=void\ fixPillar(int)
+comment3.params=
+comment3.target=void\ moveThree()
+comment4.params=
+comment4.target=void\ goBack()
+comment5.params=x\ y
+comment5.target=void\ fixSpot(int,\ int)
+comment6.params=
+comment6.target=void\ printFixes()
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Problem2
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ getTheBeepers()
+comment2.params=
+comment2.target=void\ goToWall()
+comment3.params=
+comment3.target=boolean\ wallOnRight()
+comment4.params=
+comment4.target=void\ checkSpot()
+comment5.params=
+comment5.target=void\ buildFence()
+comment6.params=
+comment6.target=void\ turnRight()
+numComments=7

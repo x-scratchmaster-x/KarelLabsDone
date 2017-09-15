@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Problem3
+comment1.params=
+comment1.target=void\ sayHello()
+comment2.params=word
+comment2.target=void\ setWord(java.lang.String)
+comment3.params=
+comment3.target=void\ returnToStart()
+comment4.params=line\ word
+comment4.target=void\ setLine(int,\ java.lang.String)
+comment5.params=l
+comment5.target=void\ goNewLine(int)
+comment6.params=
+comment6.target=void\ startPos()
+comment7.params=
+comment7.target=void\ moveThree()
+comment8.params=
+comment8.target=void\ turnRight()
+numComments=9

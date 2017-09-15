@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TreasureBot
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ faceWest()
+comment2.params=
+comment2.target=void\ turnRight()
+comment3.params=
+comment3.target=void\ turnByBeeper()
+comment4.params=
+comment4.target=void\ findTreasure()
+numComments=5

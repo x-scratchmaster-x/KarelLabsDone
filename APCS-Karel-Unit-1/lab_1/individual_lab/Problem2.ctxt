@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Problem2
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ shuttleRace()
+comment2.params=
+comment2.target=void\ rightL()
+comment3.params=
+comment3.target=void\ leftL()
+comment4.params=
+comment4.target=void\ turnRight()
+numComments=5

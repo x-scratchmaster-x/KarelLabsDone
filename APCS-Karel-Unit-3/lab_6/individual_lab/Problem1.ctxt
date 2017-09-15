@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Problem1
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ sortBeepers()
+comment2.params=whichRow
+comment2.target=void\ setRow(int)
+comment3.params=whichRow
+comment3.target=void\ checkRow(int)
+comment4.params=
+comment4.target=void\ goToStreetZero()
+comment5.params=
+comment5.target=void\ moveToStart()
+comment6.params=
+comment6.target=void\ turnRight()
+numComments=7
